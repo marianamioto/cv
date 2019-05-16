@@ -67,7 +67,7 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 ## Outras Atividades:
 
 
-### [Voluntário Mozillian] (https://mozillians.org/pt-BR/)
+### [Voluntário Mozillian](https://mozillians.org/pt-BR/)
 
    * Período: setembro / 2011 a 2016
    * Responsabilidades:
@@ -78,9 +78,9 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 
 ### Comunidade Python
 
-   * [Membro Líder da WomentechMakers - RP] (http://wtmribeiraopreto.com.br/)
-   * [Membro do Pyladies Brasil] (http://brasil.pyladies.com/)
-   * [Membro Grupy - RP] (https://grupyrp.slack.com)
+   * [Membro Líder da WomentechMakers - RP](http://wtmribeiraopreto.com.br/)
+   * [Membro do Pyladies Brasil](http://brasil.pyladies.com/)
+   * [Membro Grupy - RP](https://grupyrp.slack.com)
 * * *
 
 ## Línguas:
