@@ -158,7 +158,7 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 ### Palestra: Womoz Mozilla
 <div class = "no-print"> </ div>
 
-  * * Palestrante Convidado *
+  Palestrante Convidado
   * Evento: Campus Party 8
   * Data / Local: fevereiro / 2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
