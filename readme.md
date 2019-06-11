@@ -92,58 +92,58 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 ### Talk: Introdução ao Python
 <div class = "no-print"> </ div>
   
-  * * Palestrante com Ana Schwendler *
+  Palestrante com Ana Schwendler 
   * Evento: Django Girls Porto Alegre
   * Data / Local: Março / 2017 - Porto Alegre - RS
 
 ### Workshop: Django Girls
 <div class = "no-print"> </ div>
 
-  * * Treinador e Organizador *
+  Treinador e Organizador
   * Data / Local: Março / 2017 - Porto Alegre - RS
   * URL: <https://www.flickr.com/photos/djangogirls/albums/72157678169230424>
 
 ### Workshop: Rails Girls
 <div class = "no-print"> </ div>
 
-  * *Treinador*
+  Treinador
   * Data / Local: março / 2017 - Novo Hamburgo - RS
   * URL: <http://railsgirls.com/novohamburgo.html>
 
 ### Discussão: Mulheres na Tecnologia
 <div class = "no-print"> </ div>
   
-  * *Alto falante*
+ Palestrante 
   * Evento: Womentech Makers - Mês da Mulher
   * Data / Local: março / 2017 - Ribeirão Preto - SP
 
 ### Workshop: Rails Girls
 <div class = "no-print"> </ div>
 
-  * *Treinador*
+  Treinador
   * Data / Local: fevereiro / 2017 - Pelotas - RS
   * URL: <http://railsgirls.com/pelotas.html>
 
 ### Workshop: Django Girls
 <div class = "no-print"> </ div>
 
-  * *Treinador*
+  Treinador
   * Data / Local: Janeiro / 2017 - Curitiba - PR
   * URL: <https://www.flickr.com/photos/turicas/sets/72157675892144803>
 
 ### Criador: Aprenda e Ensine a Web no CEU de Sertãozinho
 <div class = "no-print"> </ div>
 
-  * *Alto falante*
+  Palestrante 
   * Evento: Maker Party - Sertãozinho
   * Data / Local: Agosto / 2015 - Sertãozinho - SP
   * URL: <http://culturadigital.br/labceus/2015/08/14/mozilla-maker-party-em-sertaozinho/>
   
 
-### Discussão: SUMO Mozilla
+### Palestra: SUMO Mozilla
 <div class = "no-print"> </ div>
   
-  * * Palestrante Convidado *
+  Palestrante Convidado
   * Evento: FISL 16
   * Data / Local: julho / 2015 - Porto Alegre - RS
 
@@ -155,7 +155,7 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
   * Data / Local: fevereiro / 2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
   
-### Discussão: Womoz Mozilla
+### Palestra: Womoz Mozilla
 <div class = "no-print"> </ div>
 
   * * Palestrante Convidado *
@@ -163,10 +163,10 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
   * Data / Local: fevereiro / 2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
 
-### Discussão: SUMO Mozilla
+### Palestra: SUMO Mozilla
 <div class = "no-print"> </ div>
   
-  * * Palestrante Convidado *
+  Palestrante Convidado
   * Evento: FISL 14
   * Data / Local: Julho / 2013 - Porto Alegre - RS
 
@@ -175,5 +175,5 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 
 
 
-Web Version: https://marianamioto.github.io/resume/
+Web Version: https://marianamioto.github.io/cv/
 
