@@ -10,12 +10,6 @@ Phone: +55 (16) 99778 3633
 
 ## Educação:
 
-### Mestrado em Ciências - Bioengenharia 
-  * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos and Ribeirão Preto
-  * Area de pesquisa: Processamento de dados e imagens médicas. 
-  * Tema: " Estudo para segmentação e extração de caracteristicas em CT de Alta Resolução de Torax com Doenças Pulmonares Difusas. "
-  * Qualificado
-
 ### Bacharel em Informática Biomédica
   * Date: July 2014
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus Ribeirão Preto
@@ -27,16 +21,16 @@ Phone: +55 (16) 99778 3633
 ### PixForce Tecnologia LTDA
 
 * Período: Janeiro/2017 - Julho/2017
-* Cargo: Machine Learning Engineer
+* Cargo: Engenheira de Software especialista em Machine Learning 
 * Tecnologias: Python, Matlab languages
 * Responsibilidades: Desenvolvimento de algoritmos para processamento de imagens utilizando Python; Pesquisar e implementar 
 soluções para analise dos dados obtidos das imagens usando machine learning.
 
 ### Hospital das Clínicas - HC: Faculdade de Medicina de Ribeirão Preto - FMRP, USP - Ribeirão Preto, Brazil
 
-* Periodo: Fevereiro/2015 - Dezembror/2016
+* Período: Fevereiro/2015 - Dezembror/2016
 * Cargo: Pesquisadora e Desenvolvedora
-* Technologias: Python, Matlab e R languages
+* Tecnologias: Python, Matlab e R languages
 * Projecto: Desenvolvimento de algoritmos para realização de processamento de imagens para 
 auxílio de ferramentas de diagnóstico que fazem análise quantitativa computacional para identificar 
 padrões radiológicos de doenças pulmonares intersticiais em imagens de tórax em HRTC. 
@@ -51,7 +45,7 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 ### Escola de Enfermagem de Ribeirão Preto - USP
 
 * Período: Agosto / 2011 - Dezembro / 2012
-* Positioção: Arquiteto de Software e Desenvolvedor Web
+* Cargo: Arquiteto de Software e Desenvolvedor Web
 * Tecnologias: Python, Joomla
 * Projeto: Responsável pela arquitetura do site, implementação do site.
 
